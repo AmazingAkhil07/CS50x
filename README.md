@@ -53,18 +53,6 @@ CS50x/
 ├── Final Project/   # Independent Final Project
 └── README.md
 
-
-## 🧪 Problem Sets Highlights
-
-* **Cash, Mario, Readability** (C & Python)
-* **Tideman & Plurality** (Algorithms)
-* **Recover & Filter** (Memory)
-* **Speller** (Data Structures)
-* **Finance** (Flask + SQL Web App)
-* **Trivia & Homepage** (Web Development)
-
----
-
 ## 🚀 Final Project
 
 The final project is an independent software project that demonstrates cumulative learning from the course.
