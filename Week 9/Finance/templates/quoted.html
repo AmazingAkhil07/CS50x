@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}Quote Result{% endblock %}
+
+{% block main %}
+<h2>Stock Quote</h2>
+<table class="table table-striped table-hover">
+    <tr>
+        <th>Company Name</th>
+        <td>{{ stock.name }}</td>
+    </tr>
+    <tr>
+        <th>Symbol</th>
+        <td>{{ stock.symbol }}</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>{{ stock.price | usd }}</td>
+    </tr>
+</table>
+<a href="/quote" class="btn btn-secondary mt-3">Look up another</a>
+{% endblock %}

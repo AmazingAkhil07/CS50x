@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+HTML tags used:
+nav, div, h1, h2, p, a, ul, li, form, input, button
+
+CSS properties used:
+font-family, color, max-width, margin-bottom, margin-top
+
+JavaScript:
+Used JavaScript to show alert messages when users click buttons or submit forms.
+
+Bootstrap:
+Used Bootstrap navbar, buttons, form controls, and responsive layout.
